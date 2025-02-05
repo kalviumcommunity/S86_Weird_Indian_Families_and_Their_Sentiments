@@ -1,4 +1,4 @@
-# Weird Indian Family Sentiments
+## Weird Indian Family Sentiments
 
 ## Project Overview
 "Weird Indian Family Sentiments" is a project that explores the unique and sometimes humorous emotional dynamics within Indian families. This project captures various cultural, societal, and generational perspectives, analyzing how these sentiments shape relationships and behaviors.
