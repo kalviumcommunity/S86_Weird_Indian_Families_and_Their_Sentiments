@@ -1,0 +1,16 @@
+{
+  "name": "s86_weird_indian_families_and_their_sentiments",
+  "version": "1.0.0",
+  "description": "\"Weird Indian Family Sentiments\" is a project that explores the unique and sometimes humorous emotional dynamics within Indian families. This project captures various cultural, societal, and generational perspectives, analyzing how these sentiments shape relationships and behaviors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
