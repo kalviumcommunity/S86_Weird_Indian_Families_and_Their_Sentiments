@@ -4,9 +4,13 @@
   "description": "\"Weird Indian Family Sentiments\" is a project that explores the unique and sometimes humorous emotional dynamics within Indian families. This project captures various cultural, societal, and generational perspectives, analyzing how these sentiments shape relationships and behaviors.",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
