@@ -25,3 +25,7 @@ Contributions are welcome! Feel free to submit pull requests with additional ins
 
 ## Contact
 For any inquiries or collaborations, feel free to reach out.
+
+##  deployed link
+
+https://s86-weird-indian-families-and-their-98dr.onrender.com
